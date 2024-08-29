@@ -1,0 +1,18 @@
+:root{
+    --color-background: #000;
+    --color-accent: #a9f3c9;
+    --color-secondary: #3c4cc4;
+    --color-light: #f1f1f0;
+}
+
+.app{
+    background: var(--color-secondary);
+    min-height: 100vh;
+}
+.bg-success-25{
+    background: #a7f3a7 !important;
+}
+
+.bg-danger-25{
+    background: #f8b1b1 !important;
+}
